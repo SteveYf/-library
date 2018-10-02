@@ -12,6 +12,7 @@ def all_url(url_temp):
 
 def down_image(image_url):
     # 获取图片名字
+    # git test
     for i in image_url:
         print(i)
         image_url_str = str(i)
