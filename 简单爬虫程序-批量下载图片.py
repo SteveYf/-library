@@ -1,6 +1,6 @@
 import re
 import urllib.request
-
+import os
 
 def all_url(url_temp):
     """获取所有链接"""
